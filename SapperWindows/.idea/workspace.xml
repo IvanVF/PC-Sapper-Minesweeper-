@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SapperWindows:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="490b1be7-99bc-41c0-abff-9f661637b032" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b6u1wjzC6jtxcxFQVErYRNb8Q3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="F:/Android_SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaSweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSweeper" />
+      <module name="SapperWindows" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaSweeper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="490b1be7-99bc-41c0-abff-9f661637b032" name="Default Changelist" comment="" />
+      <created>1587964652169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587964652169</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1588846969965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588846969965" />
+    <state x="690" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588404382244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588404382244" />
+    <state x="739" y="263" key="FileChooserDialogImpl" timestamp="1589777628562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="263" key="FileChooserDialogImpl/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1589777628562" />
+    <state width="1920" height="277" key="GridCell.Tab.0.bottom" timestamp="1595742526459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1595742526459" />
+    <state width="1920" height="277" key="GridCell.Tab.0.center" timestamp="1595742526459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1595742526459" />
+    <state width="1920" height="277" key="GridCell.Tab.0.left" timestamp="1595742526458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1595742526458" />
+    <state width="1920" height="277" key="GridCell.Tab.0.right" timestamp="1595742526459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1920" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1595742526459" />
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom" timestamp="1588440381656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588440381656" />
+    <state width="1876" height="342" key="GridCell.Tab.1.center" timestamp="1588440381656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588440381656" />
+    <state width="1876" height="342" key="GridCell.Tab.1.left" timestamp="1588440381656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588440381656" />
+    <state width="1876" height="342" key="GridCell.Tab.1.right" timestamp="1588440381656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588440381656" />
+    <state x="440" y="96" key="SettingsEditor" timestamp="1588404401680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="96" key="SettingsEditor/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588404401680" />
+    <state x="690" y="281" key="extract.method.dialog" timestamp="1588848962382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="281" key="extract.method.dialog/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588848962382" />
+    <state x="342" y="145" key="new project wizard" timestamp="1589777639916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1589777639916" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1588848182062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040/1920.106.1024.768@0.0.1920.1040" timestamp="1588848182062" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaSweeper.java</url>
+          <line>26</line>
+          <properties class="JavaSweeper" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
